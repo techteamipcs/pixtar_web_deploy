@@ -1,4 +1,4 @@
-body{font-family:Montserrat,sans-serif}@charset "UTF-8";/*!
+:root{--bs-body-bg:#8080804a}body{font-family:Montserrat,sans-serif;background-color:#8080804a!important}@charset "UTF-8";/*!
  * Bootstrap  v5.2.0 (https://getbootstrap.com/)
  * Copyright 2011-2022 The Bootstrap Authors
  * Copyright 2011-2022 Twitter, Inc.
