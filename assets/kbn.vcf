@@ -3,11 +3,11 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iOS 8.1.1//EN
 N:KBN;;Mr.;
 FN:KBN
-NOTE:''
+NOTE:
 ORG:Pixtar
 TITLE:Co-Founder/Brand Director
 PHOTO;TYPE=JPEG;VALUE=URI:https://pixtar.ae/assets/images/kbnprofile.jpg
-item1.EMAIL;type=INTERNET:nawaz@pixtar.ae
+item1.EMAIL;type=INTERNET:kbn@pixtar.ae
 item1.X-ABLabel:Email Pixtar
 item2.EMAIL;type=INTERNET:nawaz@dnour.com
 item2.X-ABLabel:Email D'NOUR
