@@ -3,22 +3,22 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iOS 8.1.1//EN
 N:Shaikh;Junaid;;Mr.;
 FN:Junaid Shaikh
-NOTE:
+NOTE:''
 ORG:Pixtar
 TITLE:Co-Founder/Brand Director
 PHOTO;TYPE=JPEG;VALUE=URI:https://pixtar.ae/assets/images/junaidprofile.jpg
 item1.EMAIL;type=INTERNET:junaid@pixtar.ae
 item1.X-ABLabel:Email Pixtar
 item2.EMAIL;type=INTERNET:junaid@dnour.com
-item2.X-ABLabel:Email D'Nour
+item2.X-ABLabel:Email D'NOUR
 TEL;type=IPHONE;type=CELL;type=VOICE:+971529997111
-item3.ADR;WORK;PREF:;;2022-Building No. 2 Gold & Diamond Park Near FAB Metro Station 117258 - Dubai ;United Arab Emirates
+item3.ADR;WORK;PREF:;;2022-Building No. 2 Gold & Diamond Park Near Equity Metro Station 117258 - Dubai;United Arab Emirates
 item3.X-ABADR:uae
 item3.X-ABLabel:Address
 item4.URL;type=pref:https://www.pixtar.ae
 item4.X-ABLabel:Pixtar
 item5.URL:https://www.dnour.com
-item5.X-ABLabel:D'Nour
+item5.X-ABLabel:D'NOUR
 X-SOCIALPROFILE;type=Instagram;x-user=junaidnour:https://www.instagram.com/junaidnour/?igshid=YmMyMTA2M2Y%3D
 X-SOCIALPROFILE;type=Linkedin;x-user=junaid-nour-56515493:https://www.linkedin.com/in/junaid-nour-56515493
 END:VCARD

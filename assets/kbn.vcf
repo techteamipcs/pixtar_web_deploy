@@ -1,0 +1,24 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iOS 8.1.1//EN
+N:KBN;;Mr.;
+FN:KBN
+NOTE:''
+ORG:Pixtar
+TITLE:Co-Founder/Brand Director
+PHOTO;TYPE=JPEG;VALUE=URI:https://pixtar.ae/assets/images/kbnprofile.jpg
+item1.EMAIL;type=INTERNET:nawaz@pixtar.ae
+item1.X-ABLabel:Email Pixtar
+item2.EMAIL;type=INTERNET:nawaz@dnour.com
+item2.X-ABLabel:Email D'NOUR
+TEL;type=IPHONE;type=CELL;type=VOICE:+971527930781
+item3.ADR;WORK;PREF:;;2022-Building No. 2 Gold & Diamond Park Near Equity Metro Station 117258 - Dubai;United Arab Emirates
+item3.X-ABADR:uae
+item3.X-ABLabel:Address
+item4.URL;type=pref:https://www.pixtar.ae
+item4.X-ABLabel:Pixtar
+item5.URL:https://www.dnour.com
+item5.X-ABLabel:D'NOUR
+X-SOCIALPROFILE;type=Instagram;x-user=imkbn:https://www.instagram.com/imkbn/?igshid=YmMyMTA2M2Y%3D
+X-SOCIALPROFILE;type=Linkedin;x-user=kbnab:https://www.linkedin.com/in/kbnab
+END:VCARD
