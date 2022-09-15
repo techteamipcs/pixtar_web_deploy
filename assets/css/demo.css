@@ -8,6 +8,9 @@ body{
     font-family: "barcelony";
     src: local("barcelony"),url('../fonts/barcelony.ttf') format("truetype");
   }
+.toastr{
+   background-color: #da9777 !important;
+}
 .barcelony{
     font-family: "barcelony";
     font-weight: 100;
