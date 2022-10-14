@@ -9,7 +9,7 @@ body{
     src: local("barcelony"),url('../fonts/barcelony.ttf') format("truetype");
   }
 .toastr{
-   background-color: #da9777 !important;
+   background-color: #000 !important;
 }
 .barcelony{
     font-family: "barcelony";
