@@ -1,7 +1,18 @@
+@import './fonts.scss';
+@import './_fonts.scss';
 $font-color:                 #66615b !default;
 $fill-font-color:            rgba(255, 255, 255, 0.8);
 $font-family-sans-serif:     'Montserrat', sans-serif;
 // "Helvetica", Arial,
+
+// custom font lufga fonts
+$lufga-light:'lufga-light';
+$lufga-regular:'lufga-regular';
+$lufga-medium:'lufga-medium';
+$lufga-semibold:'lufga-semibold';
+$lufga-bold:'lufga-bold';
+$gilroy-semibold:'gilroy-semibold';
+$gilroy-bold:'gilroy-bold';
 
 $none:                       0   !default;
 $border-thin:                1px !default;
@@ -143,7 +154,7 @@ $font-size-h3:                 1.825em !default;
 $font-size-h4:                 1.6em !default;
 $font-size-h5:                 1.35em !default;
 $font-size-h6:                 0.9em !default;
-$font-paragraph:               15px !default;
+$font-paragraph:               14px !default;
 $font-size-navbar:             14px !default;
 
 $font-size-info-horizontal:    2.5em !default;
@@ -318,3 +329,14 @@ $zindex-select-dropdown: 1060 !default; // must be higher than a modal backgroun
 
 //** Placeholder text color
 $input-color-placeholder: #999 !default;
+
+$textcolor2: #6E6E73; 
+$bgcolor1: #EEEDF0;
+$textcolor1:#1D1D1F;
+$bordercolor:#DADADE;
+$textcolor3 : #676767;
+$textcolor4 : #878787;
+$textcolor5: #E5E5E3;
+$textcolor6: #8A8989;
+$textcolor7 : #C7C2BD;
+
