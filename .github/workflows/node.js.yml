@@ -25,7 +25,7 @@ jobs:
         username: ${{secrets.GOOGLE_CLOUD_VM_USERNAME}}
         port: ${{ secrets.GOOGLE_CLOUD_VM_PORT }}
         script: |
-          cd /www/wwwroot/pixtar
+          cd /www/wwwroot/build.pixtar.ae
           git pull
           # sudo npm install --force
           # sudo pm2 restart app.js
